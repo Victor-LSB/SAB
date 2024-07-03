@@ -51,5 +51,10 @@ body {
             color: #E9E32E;
         }
     
-   
+        .nav-item:hover {
+            background-color: silver;
+            opacity: 0.4;
+            
+        }
+        
 
